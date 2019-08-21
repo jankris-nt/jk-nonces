@@ -1,0 +1,15 @@
+{
+    "name": "jankris-nt/jk-nonces",
+    "description": "Nonces test",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "jankris",
+            "email": "chris.alli@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    }
+}
