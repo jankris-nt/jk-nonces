@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "jk-nonces": "src"
+            "jk-nonces": "src/"
         }
     }
 }
