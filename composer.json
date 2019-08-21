@@ -2,7 +2,8 @@
     "name": "jankris-nt/jk-nonces",
     "description": "Nonces test",
     "type": "wordpress-plugin",
-    "license": "GPLv2",
+    "license": "GPL-2.0-only",
+    "homepage": "https://github.com/jankris-nt/jk-nonces",
     "authors": [
         {
             "name": "jankris",
